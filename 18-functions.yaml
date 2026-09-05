@@ -10,7 +10,7 @@
      listTags:
      - key: Application
        value: payment
-     - key: Application
+     - key: Environmnt
        value: dev
 
   tasks:
