@@ -53,7 +53,7 @@
 
 
   - name: redirect the output
-    ansible.builtin.command: Is -ltr >
+    ansible.builtin.command: ls -ltr 
     register: redirect_output
 
 
