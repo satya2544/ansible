@@ -1,0 +1,25 @@
+students:
+  - id: 101
+    name: John
+    age: 20
+    course: Computer Science
+    grade: A
+
+  - id: 102
+    name: Sarah
+    age: 21
+    course: Information Technology
+    grade: B
+
+  - id: 103
+    name: David
+    age: 19
+    course: Electronics
+    grade: A
+
+  - id: 104
+    name: Emma
+    age: 20
+    course: Mechanical Engineering
+    grade: B
+
