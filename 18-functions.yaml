@@ -53,7 +53,7 @@
 
 
   - name: redirect the output
-    ansible.builtin.command: Is -ltr > /tmp/output.txt
+    ansible.builtin.command: Is -ltr >
     register: redirect_output
 
 
